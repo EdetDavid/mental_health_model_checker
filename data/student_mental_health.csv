@@ -1,0 +1,501 @@
+age,gender,international,year_of_study,marital_status,gpa,major,course_load,sleep_hours,exercise_weekly,depression_score,anxiety_score,stress_level,counseling_before,family_support,friend_support,financial_stress,living_condition,screen_time_daily,social_media_daily,mental_health_index,mental_health_category
+20,Male,No,4,In a relationship,3.43,Medicine,5,5.1,1-2 days,5,0,High,No,Excellent,Poor,Moderate,Good,6-8 hours,5+ hours,74.8,Good
+19,Male,Yes,2,Single,3.68,Business,5,8.6,3-4 days,4,0,High,Yes,Good,Good,Low,Fair,3-5 hours,1-2 hours,78.6,Good
+21,Female,No,4,In a relationship,3.12,Education,5,6.0,None,1,3,Severe,No,Poor,Excellent,High,Good,3-5 hours,1-2 hours,71.2,Good
+23,Non-binary,Yes,2,Single,2.23,Arts,6,5.3,3-4 days,3,1,Severe,No,Excellent,Fair,Moderate,Excellent,3-5 hours,1-2 hours,74.4,Good
+19,Male,No,3,In a relationship,3.47,Engineering,5,6.6,1-2 days,1,4,High,Yes,Good,Excellent,Moderate,Good,3-5 hours,1-2 hours,78.3,Good
+19,Female,No,3,Single,2.75,Arts,6,6.6,None,4,1,Moderate,No,Fair,Excellent,Low,Excellent,6-8 hours,Less than 1 hour,80.6,Good
+23,Female,Yes,4,Single,2.54,Arts,5,5.1,3-4 days,4,3,High,Yes,Good,Excellent,Moderate,Excellent,3-5 hours,3-4 hours,76.1,Good
+21,Female,No,5,Married,3.58,Social Sciences,6,5.4,5+ days,2,3,Low,No,Good,Good,Low,Poor,3-5 hours,1-2 hours,83.7,Good
+19,Female,No,4,In a relationship,3.03,Computer Science,6,5.2,1-2 days,3,1,High,Yes,Poor,Excellent,Moderate,Good,3-5 hours,1-2 hours,75.7,Good
+21,Female,No,2,Single,3.82,Engineering,4,5.3,3-4 days,3,7,Severe,No,Poor,Good,Low,Good,9+ hours,3-4 hours,59.5,Average
+19,Female,Yes,4,Single,2.73,Engineering,6,6.1,None,1,4,Moderate,No,Good,Good,High,Excellent,9+ hours,1-2 hours,79.6,Good
+19,Female,No,1,In a relationship,2.92,Medicine,4,4.6,1-2 days,6,5,High,No,Excellent,Fair,Low,Fair,3-5 hours,1-2 hours,67.6,Good
+20,Female,No,2,Single,3.89,Medicine,6,5.7,1-2 days,1,3,Moderate,No,Good,Poor,High,Excellent,3-5 hours,1-2 hours,76.2,Good
+17,Male,No,2,In a relationship,3.37,Engineering,5,8.3,1-2 days,0,1,Moderate,No,Excellent,Excellent,High,Good,3-5 hours,3-4 hours,90.8,Good
+17,Female,No,5,In a relationship,2.31,Education,3,7.9,5+ days,6,7,Moderate,Yes,Fair,Good,Low,Good,6-8 hours,Less than 1 hour,65.6,Good
+18,Female,No,3,Single,3.35,Science,5,5.1,3-4 days,2,4,High,Yes,Fair,Good,Moderate,Poor,1-2 hours,1-2 hours,72.0,Good
+17,Female,No,2,Single,4.0,Medicine,7,8.1,3-4 days,4,2,Severe,No,Fair,Fair,None,Fair,6-8 hours,3-4 hours,66.4,Good
+20,Non-binary,No,3,Single,2.91,Science,3,3.8,1-2 days,2,4,Severe,Yes,Fair,Good,Moderate,Good,6-8 hours,3-4 hours,68.2,Good
+18,Female,No,4,Single,3.56,Social Sciences,5,10.0,5+ days,0,5,Low,No,Fair,Poor,High,Poor,9+ hours,3-4 hours,75.4,Good
+17,Female,Yes,1,Single,2.69,Education,5,8.7,None,1,4,High,No,Excellent,Excellent,Moderate,Excellent,3-5 hours,5+ hours,80.8,Good
+22,Male,No,5,In a relationship,3.12,Engineering,6,5.9,3-4 days,2,1,High,No,Excellent,Fair,Moderate,Poor,9+ hours,Less than 1 hour,79.5,Good
+19,Male,No,3,Single,3.85,Education,5,7.3,1-2 days,4,0,Moderate,No,Excellent,Fair,Low,Good,6-8 hours,1-2 hours,82.3,Good
+20,Male,No,2,In a relationship,3.33,Medicine,4,4.6,None,2,3,Low,Yes,Fair,Good,Moderate,Fair,3-5 hours,1-2 hours,81.2,Good
+17,Female,No,3,Single,3.97,Arts,3,6.8,3-4 days,1,2,Moderate,No,Excellent,Good,Low,Good,3-5 hours,Less than 1 hour,85.4,Good
+18,Female,No,2,Single,3.46,Social Sciences,5,6.4,None,1,0,Severe,No,Good,Good,High,Good,3-5 hours,1-2 hours,78.8,Good
+20,Male,No,3,Single,4.0,Engineering,5,5.4,None,4,2,High,No,Fair,Good,Moderate,Fair,3-5 hours,1-2 hours,72.7,Good
+17,Male,Yes,2,Single,2.26,Business,6,6.0,1-2 days,4,2,High,No,Excellent,Excellent,High,Fair,3-5 hours,3-4 hours,80.2,Good
+20,Male,No,4,Single,3.07,Social Sciences,3,5.8,None,0,2,Moderate,Yes,Good,Good,Low,Poor,6-8 hours,3-4 hours,84.2,Good
+18,Male,No,2,Single,2.55,Computer Science,5,5.0,None,2,2,High,No,Fair,Poor,Moderate,Good,6-8 hours,1-2 hours,70.3,Good
+19,Female,Yes,2,In a relationship,2.59,Science,3,5.4,None,4,1,Low,No,Good,Good,Moderate,Good,9+ hours,3-4 hours,84.4,Good
+18,Male,No,1,Single,2.6,Education,4,4.5,1-2 days,7,1,Moderate,No,Fair,Excellent,None,Good,3-5 hours,1-2 hours,76.7,Good
+23,Female,No,2,Single,3.3,Engineering,5,8.0,None,6,3,High,No,Excellent,Good,Moderate,Good,9+ hours,1-2 hours,73.5,Good
+19,Female,Yes,1,Single,3.34,Social Sciences,5,5.3,3-4 days,0,0,Low,No,Good,Fair,High,Good,3-5 hours,3-4 hours,88.8,Good
+17,Female,No,5,Single,3.46,Education,5,4.9,None,2,1,High,No,Excellent,Excellent,High,Fair,6-8 hours,Less than 1 hour,84.5,Good
+21,Female,No,1,Single,2.53,Engineering,6,8.0,5+ days,0,0,Moderate,Yes,Poor,Good,Moderate,Poor,3-5 hours,Less than 1 hour,82.5,Good
+17,Female,No,4,Single,3.01,Medicine,5,7.3,3-4 days,7,6,High,No,Good,Good,Moderate,Fair,3-5 hours,1-2 hours,64.7,Good
+20,Female,Yes,1,Single,2.62,Social Sciences,7,7.9,1-2 days,2,0,Moderate,No,Good,Fair,None,Excellent,9+ hours,5+ hours,82.4,Good
+17,Male,No,5,Single,3.76,Medicine,6,8.1,3-4 days,4,3,Moderate,No,Good,Fair,High,Excellent,3-5 hours,3-4 hours,74.8,Good
+17,Female,No,4,Single,2.68,Social Sciences,5,9.6,3-4 days,0,7,Low,No,Good,Good,None,Fair,6-8 hours,Less than 1 hour,79.6,Good
+20,Male,No,3,In a relationship,3.07,Medicine,6,6.5,5+ days,1,3,Low,Yes,Excellent,Good,Severe,Good,6-8 hours,5+ hours,87.5,Good
+21,Female,No,3,Single,3.54,Computer Science,5,4.5,1-2 days,3,5,Severe,No,Excellent,Good,Moderate,Excellent,6-8 hours,3-4 hours,70.3,Good
+20,Female,Yes,1,Single,2.83,Education,3,7.1,None,6,0,Moderate,No,Excellent,Good,Moderate,Good,6-8 hours,3-4 hours,82.2,Good
+19,Female,No,1,Single,3.62,Business,5,5.7,1-2 days,0,0,High,No,Excellent,Good,Severe,Poor,6-8 hours,5+ hours,86.3,Good
+19,Female,Yes,5,Single,4.0,Social Sciences,3,5.3,1-2 days,5,1,Severe,No,Excellent,Excellent,None,Poor,1-2 hours,1-2 hours,76.9,Good
+17,Female,Yes,5,In a relationship,3.31,Computer Science,5,6.8,1-2 days,2,3,Moderate,No,Good,Excellent,Moderate,Good,6-8 hours,1-2 hours,82.4,Good
+18,Female,No,2,Single,3.74,Social Sciences,5,8.0,1-2 days,0,3,Moderate,Yes,Excellent,Excellent,Moderate,Excellent,9+ hours,3-4 hours,87.5,Good
+19,Female,No,5,Single,1.96,Medicine,3,5.4,3-4 days,4,2,High,No,Good,Fair,Low,Good,1-2 hours,3-4 hours,72.7,Good
+22,Non-binary,No,2,Single,2.94,Engineering,4,8.6,5+ days,4,1,Severe,No,Good,Fair,Moderate,Poor,3-5 hours,3-4 hours,70.6,Good
+20,Female,No,4,Single,3.31,Social Sciences,6,5.2,None,2,2,Severe,No,Good,Good,Moderate,Fair,6-8 hours,3-4 hours,74.1,Good
+17,Male,No,1,Single,2.57,Computer Science,5,6.3,None,1,1,Moderate,No,Good,Fair,High,Good,6-8 hours,5+ hours,82.0,Good
+20,Female,No,4,Single,3.32,Medicine,4,7.3,None,0,1,High,No,Fair,Excellent,None,Excellent,6-8 hours,5+ hours,82.1,Good
+19,Male,No,5,In a relationship,3.84,Arts,5,6.1,3-4 days,3,2,Low,No,Excellent,Fair,Severe,Good,3-5 hours,5+ hours,84.0,Good
+18,Male,No,4,Single,2.07,Medicine,5,4.0,3-4 days,0,1,Severe,Yes,Good,Good,Low,Good,6-8 hours,5+ hours,78.4,Good
+21,Male,No,4,Single,2.49,Education,5,8.1,1-2 days,6,2,Severe,No,Poor,Good,Low,Poor,3-5 hours,5+ hours,63.9,Good
+22,Female,Yes,4,Single,3.31,Business,7,5.8,1-2 days,0,0,Low,No,Good,Good,Low,Excellent,6-8 hours,Less than 1 hour,91.3,Good
+21,Female,No,5,Single,3.48,Arts,5,7.8,1-2 days,5,2,Moderate,No,Poor,Fair,None,Good,6-8 hours,1-2 hours,70.2,Good
+18,Female,No,4,Single,3.64,Education,4,4.8,1-2 days,4,1,Low,No,Fair,Good,Low,Fair,3-5 hours,1-2 hours,81.9,Good
+19,Male,No,2,In a relationship,3.27,Education,6,5.1,1-2 days,3,6,Moderate,No,Fair,Good,Severe,Good,6-8 hours,5+ hours,71.1,Good
+20,Male,Yes,5,In a relationship,3.48,Education,6,8.0,3-4 days,5,0,High,No,Good,Excellent,Moderate,Fair,9+ hours,3-4 hours,79.8,Good
+21,Male,No,4,Single,3.74,Engineering,4,7.2,5+ days,0,1,Moderate,No,Good,Poor,Low,Poor,6-8 hours,3-4 hours,80.9,Good
+19,Female,No,5,In a relationship,2.95,Education,4,6.0,5+ days,5,3,Low,No,Excellent,Excellent,Low,Fair,9+ hours,Less than 1 hour,84.8,Good
+19,Male,No,3,Married,2.83,Engineering,4,7.2,5+ days,4,1,Moderate,No,Excellent,Excellent,High,Fair,6-8 hours,1-2 hours,85.6,Good
+17,Male,No,2,In a relationship,3.1,Education,5,5.3,1-2 days,4,1,Severe,No,Good,Good,High,Fair,6-8 hours,3-4 hours,73.2,Good
+17,Female,Yes,4,Single,3.32,Science,5,6.9,1-2 days,3,3,High,No,Good,Excellent,Low,Good,1-2 hours,1-2 hours,77.4,Good
+21,Female,No,3,In a relationship,2.81,Computer Science,5,6.9,3-4 days,0,2,Moderate,No,Good,Poor,None,Good,3-5 hours,1-2 hours,79.2,Good
+22,Male,No,3,Single,2.96,Arts,6,6.1,5+ days,1,3,Low,No,Excellent,Excellent,Low,Good,3-5 hours,1-2 hours,90.0,Good
+19,Male,No,5,Married,3.44,Science,5,5.4,None,5,1,Severe,No,Poor,Good,None,Fair,6-8 hours,1-2 hours,66.9,Good
+22,Male,No,3,Single,3.29,Education,4,6.8,1-2 days,1,0,High,No,Poor,Good,Low,Poor,9+ hours,3-4 hours,77.5,Good
+20,Female,No,2,Single,3.09,Arts,4,6.6,None,0,2,Moderate,No,Excellent,Good,Moderate,Good,3-5 hours,1-2 hours,86.7,Good
+18,Male,No,2,In a relationship,2.16,Arts,5,6.0,1-2 days,11,4,Low,No,Good,Fair,Low,Fair,6-8 hours,3-4 hours,67.8,Good
+20,Female,No,1,Single,3.2,Social Sciences,4,5.1,1-2 days,0,0,Low,No,Fair,Excellent,Moderate,Fair,6-8 hours,Less than 1 hour,91.2,Good
+23,Female,No,2,Divorced,2.62,Business,5,6.7,1-2 days,1,1,Low,No,Fair,Poor,Low,Excellent,6-8 hours,5+ hours,80.8,Good
+19,Female,No,3,Married,3.79,Science,6,6.0,None,4,1,Moderate,No,Excellent,Good,Severe,Good,3-5 hours,1-2 hours,83.2,Good
+23,Male,No,2,Single,3.01,Business,4,5.1,1-2 days,11,1,Severe,No,Excellent,Good,Severe,Excellent,6-8 hours,3-4 hours,66.6,Good
+17,Male,No,5,Single,2.6,Arts,5,6.8,3-4 days,1,3,Moderate,Yes,Excellent,Excellent,Moderate,Good,3-5 hours,3-4 hours,86.2,Good
+21,Female,Yes,1,Single,3.16,Engineering,5,9.1,None,1,0,High,No,Good,Good,Moderate,Fair,1-2 hours,1-2 hours,82.5,Good
+20,Female,No,3,Single,3.96,Arts,5,6.1,3-4 days,2,3,Moderate,No,Good,Good,Moderate,Good,9+ hours,5+ hours,80.0,Good
+19,Male,No,1,Single,3.58,Business,4,8.9,1-2 days,0,1,High,No,Excellent,Good,Moderate,Fair,3-5 hours,3-4 hours,84.6,Good
+20,Female,No,3,In a relationship,3.33,Science,5,9.9,3-4 days,0,4,High,No,Excellent,Excellent,High,Good,1-2 hours,1-2 hours,82.1,Good
+17,Male,No,5,Single,2.4,Education,3,5.3,None,5,0,Low,Yes,Fair,Fair,Moderate,Poor,9+ hours,1-2 hours,79.7,Good
+19,Female,No,1,Single,4.0,Social Sciences,6,6.7,5+ days,2,4,Moderate,Yes,Excellent,Fair,High,Excellent,3-5 hours,5+ hours,78.2,Good
+20,Female,No,4,Married,2.83,Social Sciences,3,9.9,1-2 days,0,0,High,No,Fair,Good,Severe,Fair,6-8 hours,3-4 hours,81.2,Good
+22,Female,No,3,Single,3.76,Social Sciences,5,6.5,5+ days,0,2,Low,No,Fair,Excellent,Moderate,Excellent,3-5 hours,1-2 hours,87.9,Good
+18,Female,No,4,Single,3.0,Education,5,6.8,5+ days,7,3,Moderate,No,Good,Fair,Moderate,Excellent,3-5 hours,1-2 hours,70.9,Good
+18,Male,No,1,In a relationship,3.7,Social Sciences,7,4.2,None,6,0,Moderate,Yes,Good,Good,None,Good,3-5 hours,5+ hours,79.8,Good
+18,Female,No,4,Single,3.98,Science,4,5.9,None,1,1,Severe,Yes,Excellent,Good,Low,Good,3-5 hours,3-4 hours,79.6,Good
+21,Female,No,4,In a relationship,3.59,Education,4,7.5,1-2 days,3,1,Moderate,No,Poor,Excellent,Moderate,Good,6-8 hours,3-4 hours,79.4,Good
+20,Male,No,1,Married,3.65,Social Sciences,3,10.0,1-2 days,0,1,High,No,Good,Excellent,Low,Excellent,6-8 hours,1-2 hours,84.6,Good
+18,Female,Yes,5,In a relationship,3.14,Education,4,6.4,None,1,0,Moderate,No,Excellent,Good,High,Good,6-8 hours,3-4 hours,88.7,Good
+21,Female,Yes,4,Single,2.94,Business,4,4.2,None,3,3,High,Yes,Excellent,Good,Low,Good,9+ hours,1-2 hours,77.4,Good
+20,Male,No,4,Single,3.28,Computer Science,5,4.6,1-2 days,1,5,Moderate,No,Fair,Good,Moderate,Good,1-2 hours,1-2 hours,75.4,Good
+21,Male,No,5,Single,3.0,Computer Science,4,6.6,None,2,5,High,Yes,Good,Poor,Moderate,Excellent,6-8 hours,3-4 hours,67.8,Good
+18,Female,No,4,In a relationship,4.0,Science,3,8.5,None,1,2,Moderate,Yes,Good,Good,Moderate,Good,6-8 hours,5+ hours,82.9,Good
+19,Male,No,4,In a relationship,2.6,Medicine,6,7.7,1-2 days,0,3,High,No,Fair,Good,Moderate,Good,9+ hours,1-2 hours,76.2,Good
+19,Male,Yes,4,Single,3.8,Engineering,4,7.4,None,6,0,High,No,Excellent,Good,High,Good,1-2 hours,1-2 hours,78.5,Good
+17,Female,Yes,2,Single,3.51,Social Sciences,4,8.7,1-2 days,0,1,Moderate,Yes,Excellent,Excellent,Moderate,Excellent,6-8 hours,3-4 hours,90.8,Good
+20,Female,No,5,Single,3.34,Engineering,4,5.6,1-2 days,3,2,Low,No,Fair,Good,Moderate,Good,9+ hours,3-4 hours,81.5,Good
+20,Male,No,4,Single,4.0,Education,7,6.7,1-2 days,1,2,Low,No,Fair,Good,None,Fair,3-5 hours,5+ hours,84.1,Good
+20,Male,No,5,In a relationship,3.38,Engineering,4,5.9,3-4 days,6,2,Low,No,Poor,Good,Moderate,Good,9+ hours,3-4 hours,75.2,Good
+19,Female,No,3,Single,2.82,Science,6,6.3,1-2 days,1,1,High,No,Excellent,Good,High,Excellent,1-2 hours,Less than 1 hour,83.3,Good
+17,Male,Yes,3,In a relationship,3.38,Science,5,5.2,1-2 days,2,2,Moderate,Yes,Fair,Good,Moderate,Good,6-8 hours,5+ hours,79.1,Good
+19,Male,No,4,In a relationship,3.09,Arts,3,6.2,1-2 days,2,2,Moderate,No,Good,Good,High,Excellent,9+ hours,3-4 hours,81.6,Good
+19,Female,No,5,Single,3.5,Computer Science,7,6.7,3-4 days,3,2,High,No,Good,Good,Moderate,Poor,6-8 hours,5+ hours,76.6,Good
+18,Female,No,5,Single,3.69,Social Sciences,4,6.1,3-4 days,0,0,Moderate,No,Good,Excellent,Low,Good,6-8 hours,3-4 hours,90.0,Good
+19,Female,No,5,Single,2.68,Arts,3,6.5,3-4 days,1,0,Moderate,No,Poor,Excellent,None,Good,1-2 hours,5+ hours,83.7,Good
+20,Male,No,2,Single,3.92,Engineering,6,7.3,3-4 days,6,2,Low,Yes,Fair,Good,Moderate,Excellent,9+ hours,Less than 1 hour,77.6,Good
+23,Female,Yes,3,In a relationship,3.05,Medicine,5,8.6,None,4,1,Severe,No,Excellent,Poor,Moderate,Poor,6-8 hours,1-2 hours,70.6,Good
+20,Male,Yes,5,In a relationship,3.47,Arts,5,8.7,1-2 days,3,0,High,Yes,Excellent,Good,High,Excellent,1-2 hours,5+ hours,82.4,Good
+20,Male,No,5,In a relationship,3.57,Arts,4,7.8,None,2,3,High,No,Excellent,Good,Low,Good,6-8 hours,1-2 hours,78.7,Good
+19,Male,No,2,Single,3.42,Science,5,4.8,5+ days,1,1,Moderate,No,Poor,Fair,Moderate,Fair,6-8 hours,Less than 1 hour,77.0,Good
+17,Female,No,2,Single,3.13,Medicine,5,6.2,3-4 days,1,5,High,No,Good,Excellent,Moderate,Fair,3-5 hours,3-4 hours,76.6,Good
+19,Male,No,5,In a relationship,2.91,Education,4,6.3,3-4 days,3,3,Low,No,Good,Excellent,Moderate,Fair,3-5 hours,5+ hours,84.9,Good
+20,Female,No,1,Single,3.04,Engineering,4,5.7,1-2 days,4,0,Low,No,Fair,Excellent,Low,Good,1-2 hours,1-2 hours,86.0,Good
+24,Male,No,5,Single,4.0,Arts,3,7.2,3-4 days,3,3,Low,No,Excellent,Fair,Low,Poor,6-8 hours,5+ hours,82.3,Good
+19,Female,No,5,Single,2.68,Medicine,4,4.3,1-2 days,4,2,Moderate,No,Good,Excellent,Low,Fair,6-8 hours,3-4 hours,81.5,Good
+20,Female,Yes,2,Single,2.77,Computer Science,6,9.2,None,3,0,Moderate,Yes,Poor,Excellent,None,Excellent,6-8 hours,3-4 hours,81.1,Good
+19,Male,No,2,Single,2.74,Social Sciences,5,8.5,1-2 days,1,0,Moderate,No,Excellent,Good,Low,Fair,9+ hours,5+ hours,88.7,Good
+17,Female,Yes,5,Single,3.28,Medicine,7,7.4,1-2 days,1,3,Low,Yes,Excellent,Good,None,Fair,9+ hours,1-2 hours,87.5,Good
+22,Female,No,5,Divorced,2.29,Computer Science,4,6.6,1-2 days,0,0,Moderate,No,Poor,Excellent,Moderate,Good,6-8 hours,1-2 hours,85.0,Good
+21,Male,No,5,Single,2.39,Engineering,5,8.5,3-4 days,3,0,High,No,Good,Good,Moderate,Good,1-2 hours,1-2 hours,79.9,Good
+21,Male,Yes,2,Single,3.04,Medicine,4,7.7,None,4,2,Moderate,No,Good,Good,Severe,Good,6-8 hours,3-4 hours,79.0,Good
+18,Male,No,5,Single,2.43,Computer Science,4,8.4,1-2 days,2,1,High,No,Good,Good,Low,Good,6-8 hours,3-4 hours,79.5,Good
+22,Male,No,5,In a relationship,2.48,Medicine,4,6.6,1-2 days,0,2,Moderate,Yes,Fair,Good,Moderate,Good,6-8 hours,5+ hours,81.7,Good
+17,Female,No,4,Single,2.43,Medicine,4,9.4,1-2 days,0,1,High,No,Good,Fair,Moderate,Good,6-8 hours,3-4 hours,79.6,Good
+21,Female,No,1,Single,2.69,Social Sciences,5,8.5,3-4 days,0,2,Moderate,No,Excellent,Excellent,None,Fair,3-5 hours,3-4 hours,89.2,Good
+24,Female,Yes,3,Single,3.64,Computer Science,7,7.5,3-4 days,1,5,Moderate,No,Good,Good,High,Fair,9+ hours,3-4 hours,77.9,Good
+18,Female,No,1,In a relationship,3.77,Computer Science,5,8.6,3-4 days,1,1,Moderate,No,Poor,Good,None,Good,3-5 hours,1-2 hours,79.6,Good
+18,Male,No,4,Single,4.0,Arts,4,6.1,3-4 days,2,0,High,No,Good,Fair,Severe,Fair,6-8 hours,Less than 1 hour,78.7,Good
+20,Male,Yes,3,In a relationship,4.0,Engineering,3,4.9,3-4 days,8,0,High,No,Good,Good,High,Good,1-2 hours,5+ hours,73.4,Good
+18,Female,No,5,In a relationship,3.67,Social Sciences,4,7.2,None,3,1,Moderate,Yes,Excellent,Fair,Moderate,Good,9+ hours,Less than 1 hour,81.9,Good
+17,Female,Yes,4,Single,3.82,Medicine,5,6.6,3-4 days,5,1,Moderate,Yes,Good,Fair,Moderate,Fair,3-5 hours,1-2 hours,76.9,Good
+20,Male,Yes,5,In a relationship,3.28,Medicine,5,6.4,1-2 days,0,0,High,No,Fair,Good,Moderate,Fair,1-2 hours,3-4 hours,81.2,Good
+17,Female,No,2,Single,3.51,Arts,6,8.5,None,1,0,High,No,Fair,Good,Moderate,Fair,3-5 hours,1-2 hours,80.0,Good
+20,Male,Yes,4,In a relationship,4.0,Engineering,3,7.0,None,2,1,Moderate,No,Excellent,Good,Moderate,Good,3-5 hours,5+ hours,85.8,Good
+18,Female,No,2,Single,3.42,Science,5,7.1,3-4 days,3,7,Moderate,No,Fair,Fair,None,Good,3-5 hours,1-2 hours,66.9,Good
+23,Male,No,4,In a relationship,3.89,Social Sciences,5,6.2,3-4 days,1,2,Moderate,No,Excellent,Good,None,Good,6-8 hours,Less than 1 hour,85.4,Good
+18,Female,No,4,Single,2.64,Arts,5,8.0,None,2,2,High,No,Fair,Fair,Moderate,Fair,6-8 hours,1-2 hours,72.8,Good
+19,Male,No,2,Single,2.8,Engineering,5,7.8,3-4 days,7,1,Moderate,Yes,Good,Excellent,Moderate,Good,1-2 hours,3-4 hours,79.3,Good
+21,Male,Yes,3,Single,3.39,Social Sciences,5,8.0,5+ days,1,1,Severe,Yes,Good,Good,High,Excellent,3-5 hours,1-2 hours,77.1,Good
+17,Male,Yes,1,Single,3.29,Medicine,5,6.0,None,1,2,Moderate,No,Excellent,Good,Low,Fair,9+ hours,3-4 hours,85.4,Good
+20,Male,No,5,Single,2.83,Engineering,4,8.7,None,0,0,Moderate,No,Excellent,Good,High,Good,6-8 hours,5+ hours,90.0,Good
+22,Male,No,4,Single,4.0,Engineering,5,9.5,3-4 days,6,0,Moderate,No,Fair,Fair,Low,Excellent,6-8 hours,5+ hours,74.7,Good
+17,Male,Yes,5,Single,3.3,Education,4,8.0,1-2 days,0,3,Severe,No,Good,Excellent,Moderate,Fair,6-8 hours,1-2 hours,77.5,Good
+20,Female,No,2,Single,2.93,Engineering,5,5.5,1-2 days,2,0,High,No,Fair,Good,Moderate,Good,3-5 hours,1-2 hours,78.7,Good
+20,Male,Yes,5,In a relationship,3.29,Science,5,5.5,None,2,2,Moderate,No,Good,Good,Moderate,Poor,1-2 hours,3-4 hours,81.6,Good
+21,Male,No,2,Single,3.22,Engineering,5,6.1,1-2 days,1,3,High,Yes,Good,Good,Low,Good,3-5 hours,5+ hours,77.5,Good
+17,Female,No,5,Single,3.31,Science,6,5.9,3-4 days,0,0,Moderate,No,Excellent,Poor,Moderate,Poor,9+ hours,5+ hours,85.0,Good
+17,Male,No,1,Single,2.24,Medicine,6,6.6,3-4 days,1,0,Moderate,No,Excellent,Excellent,High,Excellent,9+ hours,1-2 hours,91.2,Good
+21,Male,No,1,Single,3.98,Science,6,7.6,3-4 days,1,0,Low,No,Good,Good,Moderate,Good,6-8 hours,3-4 hours,90.0,Good
+20,Male,No,1,Married,4.0,Social Sciences,5,7.1,3-4 days,0,1,Moderate,No,Good,Good,Moderate,Good,1-2 hours,1-2 hours,85.9,Good
+20,Female,No,1,Single,4.0,Medicine,5,7.0,3-4 days,2,2,Moderate,No,Excellent,Fair,High,Good,3-5 hours,Less than 1 hour,81.5,Good
+20,Female,No,1,In a relationship,3.4,Medicine,5,6.3,3-4 days,0,7,Severe,No,Excellent,Fair,High,Good,3-5 hours,Less than 1 hour,68.3,Good
+18,Non-binary,Yes,1,Married,3.6,Science,6,6.6,None,2,0,Moderate,No,Poor,Excellent,Moderate,Good,6-8 hours,1-2 hours,82.4,Good
+20,Male,No,2,In a relationship,2.68,Computer Science,5,7.9,1-2 days,3,7,Severe,No,Good,Good,Low,Excellent,1-2 hours,1-2 hours,64.5,Good
+20,Female,No,4,Single,3.7,Arts,7,3.7,None,1,2,Moderate,No,Good,Good,High,Excellent,9+ hours,Less than 1 hour,82.9,Good
+18,Male,No,5,In a relationship,3.35,Business,6,6.7,3-4 days,2,0,High,No,Fair,Fair,Moderate,Good,3-5 hours,3-4 hours,76.1,Good
+23,Male,No,1,Married,2.92,Computer Science,5,7.1,1-2 days,6,1,Moderate,No,Fair,Good,Low,Excellent,9+ hours,1-2 hours,75.6,Good
+20,Female,No,2,Single,3.72,Engineering,4,7.9,1-2 days,3,0,Low,Yes,Poor,Good,Low,Good,6-8 hours,3-4 hours,82.4,Good
+17,Male,No,2,Single,3.74,Education,4,5.2,1-2 days,0,1,Moderate,No,Good,Good,High,Good,6-8 hours,1-2 hours,85.9,Good
+21,Female,No,2,Single,3.24,Business,6,5.1,3-4 days,4,1,Low,Yes,Fair,Good,None,Good,6-8 hours,1-2 hours,81.9,Good
+18,Female,Yes,4,Single,3.46,Engineering,4,7.6,3-4 days,9,2,High,No,Poor,Good,Severe,Fair,6-8 hours,1-2 hours,63.8,Good
+21,Female,Yes,5,Single,2.58,Computer Science,6,3.8,1-2 days,4,3,Moderate,No,Fair,Good,Low,Poor,6-8 hours,1-2 hours,74.8,Good
+22,Male,No,4,Single,3.95,Computer Science,5,8.7,3-4 days,2,1,High,No,Excellent,Excellent,High,Fair,6-8 hours,3-4 hours,84.5,Good
+18,Female,Yes,3,Single,2.66,Engineering,5,7.0,1-2 days,4,0,Moderate,No,Excellent,Fair,Moderate,Good,6-8 hours,1-2 hours,82.3,Good
+21,Female,No,2,Single,2.78,Medicine,6,9.0,1-2 days,4,5,Low,No,Good,Good,Moderate,Fair,9+ hours,3-4 hours,77.8,Good
+20,Female,No,3,Single,3.24,Engineering,5,5.1,3-4 days,4,7,Moderate,Yes,Good,Good,High,Good,6-8 hours,1-2 hours,70.7,Good
+21,Female,No,1,Single,3.87,Education,5,6.0,1-2 days,1,1,Severe,No,Excellent,Good,Moderate,Excellent,6-8 hours,3-4 hours,79.6,Good
+23,Male,No,1,Single,3.87,Computer Science,5,3.1,5+ days,0,2,High,No,Fair,Good,Moderate,Fair,9+ hours,3-4 hours,77.9,Good
+19,Female,No,4,Single,3.2,Engineering,4,5.5,None,1,1,Moderate,No,Fair,Excellent,None,Good,3-5 hours,Less than 1 hour,84.5,Good
+18,Female,No,5,Single,3.66,Science,5,6.4,None,2,2,Moderate,Yes,Fair,Good,None,Fair,1-2 hours,1-2 hours,79.1,Good
+18,Male,No,3,In a relationship,2.19,Business,4,3.8,5+ days,6,2,Low,No,Fair,Good,Low,Poor,6-8 hours,Less than 1 hour,77.6,Good
+18,Female,No,5,Single,2.77,Science,6,6.1,None,4,0,Severe,No,Good,Good,Moderate,Good,6-8 hours,3-4 hours,74.9,Good
+19,Female,No,4,Single,2.78,Education,6,3.7,5+ days,1,1,High,No,Excellent,Fair,Low,Good,9+ hours,1-2 hours,80.8,Good
+20,Female,No,1,In a relationship,3.95,Engineering,4,6.3,5+ days,2,4,Moderate,No,Good,Fair,Low,Good,6-8 hours,3-4 hours,75.7,Good
+20,Female,No,5,Single,3.59,Social Sciences,5,8.4,None,0,4,Moderate,No,Good,Excellent,Moderate,Fair,6-8 hours,3-4 hours,83.4,Good
+21,Female,No,5,Single,3.31,Education,5,6.6,1-2 days,2,1,Low,No,Excellent,Fair,Moderate,Good,6-8 hours,5+ hours,87.0,Good
+20,Female,No,1,In a relationship,3.37,Medicine,4,9.2,None,0,2,Severe,No,Poor,Good,High,Fair,1-2 hours,3-4 hours,71.7,Good
+22,Female,No,3,In a relationship,4.0,Science,7,7.9,1-2 days,9,1,Low,Yes,Fair,Good,Low,Fair,6-8 hours,3-4 hours,75.4,Good
+19,Male,No,1,Single,3.1,Science,3,8.7,None,0,3,High,No,Good,Good,None,Poor,9+ hours,1-2 hours,78.8,Good
+25,Female,No,5,Single,2.41,Arts,4,5.6,None,0,0,Moderate,No,Good,Good,Severe,Fair,3-5 hours,5+ hours,87.6,Good
+21,Male,Yes,3,Married,3.85,Engineering,5,5.5,1-2 days,1,2,High,Yes,Poor,Good,Low,Fair,6-8 hours,3-4 hours,74.1,Good
+18,Male,Yes,3,Single,3.31,Medicine,5,7.2,1-2 days,5,6,High,No,Good,Fair,High,Fair,6-8 hours,1-2 hours,64.8,Good
+17,Female,No,1,Single,3.77,Social Sciences,5,4.3,5+ days,2,0,High,No,Good,Good,High,Excellent,3-5 hours,5+ hours,81.2,Good
+20,Male,No,5,In a relationship,3.17,Science,5,7.4,3-4 days,3,5,High,No,Good,Good,High,Fair,3-5 hours,1-2 hours,71.6,Good
+19,Female,No,4,Single,2.7,Science,5,6.2,3-4 days,0,2,High,No,Good,Good,Low,Fair,9+ hours,5+ hours,80.5,Good
+21,Male,No,5,Single,3.44,Medicine,5,8.7,1-2 days,1,1,Low,No,Good,Good,High,Fair,3-5 hours,5+ hours,88.3,Good
+20,Female,No,2,Single,3.21,Education,3,7.7,3-4 days,3,1,Moderate,No,Poor,Good,High,Good,3-5 hours,1-2 hours,77.0,Good
+19,Female,No,4,In a relationship,3.31,Education,4,8.3,1-2 days,1,5,Moderate,No,Good,Fair,Moderate,Poor,3-5 hours,3-4 hours,75.4,Good
+18,Female,No,3,Single,4.0,Engineering,4,5.6,3-4 days,3,1,Severe,No,Fair,Good,Moderate,Excellent,6-8 hours,1-2 hours,71.9,Good
+17,Non-binary,No,4,Single,2.54,Computer Science,4,8.3,5+ days,1,7,Moderate,No,Excellent,Poor,Low,Excellent,6-8 hours,1-2 hours,72.0,Good
+19,Female,No,3,Single,3.37,Arts,5,8.9,1-2 days,0,6,High,No,Good,Excellent,Low,Fair,6-8 hours,1-2 hours,76.3,Good
+21,Male,Yes,3,Single,2.71,Science,4,6.6,3-4 days,3,1,High,No,Good,Good,Moderate,Good,1-2 hours,3-4 hours,78.2,Good
+20,Female,No,4,Single,1.65,Computer Science,4,5.6,3-4 days,1,1,Moderate,Yes,Excellent,Good,Moderate,Poor,9+ hours,1-2 hours,87.1,Good
+17,Male,No,3,In a relationship,3.17,Computer Science,4,5.6,5+ days,2,1,Moderate,Yes,Good,Good,Moderate,Good,3-5 hours,Less than 1 hour,83.3,Good
+20,Female,No,3,Single,3.22,Arts,6,8.6,3-4 days,2,1,Moderate,No,Good,Fair,Moderate,Good,3-5 hours,3-4 hours,80.7,Good
+20,Male,No,2,Single,3.57,Computer Science,6,10.0,1-2 days,4,4,Moderate,No,Excellent,Good,Moderate,Fair,6-8 hours,1-2 hours,78.2,Good
+18,Female,No,5,In a relationship,3.07,Computer Science,5,5.2,1-2 days,2,6,Moderate,Yes,Excellent,Fair,Moderate,Fair,3-5 hours,Less than 1 hour,74.9,Good
+20,Female,No,5,Single,2.31,Education,6,5.1,None,3,3,Low,No,Good,Fair,Severe,Good,9+ hours,1-2 hours,79.9,Good
+20,Female,No,2,Married,2.71,Education,5,8.1,3-4 days,0,4,High,Yes,Poor,Good,Low,Good,9+ hours,1-2 hours,72.1,Good
+17,Female,No,4,Single,3.99,Business,5,5.6,None,8,1,Severe,No,Good,Good,Moderate,Fair,3-5 hours,1-2 hours,68.0,Good
+20,Male,No,1,Single,2.7,Social Sciences,3,8.2,3-4 days,3,0,Moderate,No,Excellent,Excellent,Low,Good,9+ hours,Less than 1 hour,88.6,Good
+21,Female,No,1,Single,4.0,Engineering,5,7.4,None,2,2,Moderate,No,Fair,Good,Moderate,Good,6-8 hours,5+ hours,79.1,Good
+22,Male,No,1,In a relationship,3.83,Computer Science,5,6.7,None,0,4,Low,No,Fair,Good,High,Excellent,9+ hours,3-4 hours,82.1,Good
+22,Female,No,2,Single,3.01,Business,5,7.4,1-2 days,6,0,High,Yes,Excellent,Good,Severe,Fair,3-5 hours,1-2 hours,78.5,Good
+17,Female,No,2,Single,2.76,Social Sciences,5,7.3,3-4 days,2,2,High,No,Poor,Fair,Low,Good,6-8 hours,1-2 hours,70.3,Good
+18,Female,No,3,Single,3.83,Business,5,6.4,None,5,0,Low,No,Excellent,Good,Severe,Good,3-5 hours,1-2 hours,87.3,Good
+21,Female,No,1,Single,3.06,Business,5,4.1,1-2 days,1,2,Low,No,Good,Good,None,Fair,9+ hours,3-4 hours,86.7,Good
+21,Male,Yes,4,Single,2.27,Engineering,6,7.0,1-2 days,2,6,High,No,Good,Good,Moderate,Good,1-2 hours,Less than 1 hour,71.2,Good
+21,Female,No,4,In a relationship,3.54,Engineering,4,9.1,None,0,1,High,No,Poor,Good,None,Good,6-8 hours,1-2 hours,77.1,Good
+27,Female,No,1,Single,3.45,Medicine,5,4.3,None,4,3,Low,No,Excellent,Excellent,High,Excellent,3-5 hours,5+ hours,86.1,Good
+21,Male,Yes,1,In a relationship,3.88,Arts,5,5.3,3-4 days,2,2,High,Yes,Good,Excellent,Moderate,Fair,3-5 hours,1-2 hours,80.3,Good
+22,Male,No,1,Single,3.41,Arts,5,7.3,1-2 days,5,0,Moderate,No,Good,Good,Moderate,Good,6-8 hours,1-2 hours,81.1,Good
+21,Female,No,2,Single,2.87,Medicine,5,6.8,None,2,2,Moderate,No,Good,Good,High,Fair,9+ hours,5+ hours,81.6,Good
+21,Female,No,2,Single,3.96,Medicine,3,7.3,3-4 days,5,0,High,Yes,Excellent,Good,Low,Excellent,6-8 hours,3-4 hours,79.8,Good
+19,Male,No,2,Single,4.0,Education,5,5.7,5+ days,6,1,High,No,Excellent,Good,None,Fair,9+ hours,1-2 hours,76.8,Good
+21,Female,No,5,In a relationship,3.34,Social Sciences,4,8.4,1-2 days,2,5,Moderate,No,Good,Good,High,Excellent,3-5 hours,3-4 hours,76.6,Good
+18,Female,No,4,Married,3.24,Business,5,6.8,1-2 days,1,2,Severe,No,Good,Good,Moderate,Excellent,6-8 hours,Less than 1 hour,75.4,Good
+19,Female,No,4,Single,2.41,Computer Science,5,7.7,3-4 days,0,2,Moderate,No,Excellent,Excellent,Low,Fair,6-8 hours,3-4 hours,89.2,Good
+19,Male,No,3,Single,2.84,Medicine,5,7.2,5+ days,0,1,High,No,Good,Good,Moderate,Excellent,1-2 hours,1-2 hours,82.1,Good
+20,Male,No,2,Single,3.66,Science,4,7.0,3-4 days,11,0,Moderate,No,Fair,Good,Moderate,Excellent,6-8 hours,5+ hours,70.7,Good
+24,Female,No,5,Married,2.87,Arts,5,7.6,1-2 days,1,1,High,Yes,Fair,Good,None,Fair,6-8 hours,5+ hours,78.3,Good
+17,Female,No,5,Single,2.33,Medicine,4,7.0,1-2 days,0,3,Severe,No,Excellent,Excellent,Low,Good,6-8 hours,5+ hours,80.0,Good
+21,Female,Yes,4,Single,4.0,Science,6,4.9,3-4 days,0,2,Low,Yes,Good,Good,None,Good,6-8 hours,5+ hours,88.0,Good
+17,Male,No,2,In a relationship,2.32,Science,6,8.3,None,1,0,Severe,No,Good,Good,Moderate,Fair,6-8 hours,3-4 hours,78.8,Good
+19,Female,No,3,Single,4.0,Science,7,7.9,1-2 days,0,0,High,No,Good,Good,High,Poor,1-2 hours,1-2 hours,83.8,Good
+22,Female,No,2,Single,3.02,Education,5,3.5,3-4 days,2,1,High,No,Fair,Excellent,Severe,Fair,3-5 hours,1-2 hours,79.5,Good
+20,Male,No,1,Single,3.15,Education,5,5.7,3-4 days,0,1,Moderate,No,Good,Poor,Moderate,Fair,6-8 hours,3-4 hours,80.9,Good
+17,Female,No,2,In a relationship,2.8,Computer Science,4,8.3,1-2 days,1,1,High,No,Poor,Excellent,Low,Good,3-5 hours,5+ hours,78.3,Good
+18,Male,No,1,Single,3.67,Computer Science,4,4.0,3-4 days,10,1,High,No,Good,Good,Severe,Fair,1-2 hours,1-2 hours,69.2,Good
+21,Female,Yes,1,Single,2.34,Science,5,8.1,None,1,2,Moderate,No,Good,Good,Moderate,Excellent,6-8 hours,5+ hours,82.9,Good
+18,Female,No,3,Single,2.1,Social Sciences,5,6.5,1-2 days,2,1,Severe,No,Good,Good,Low,Good,6-8 hours,5+ hours,75.8,Good
+20,Female,No,4,Single,4.0,Education,6,8.7,3-4 days,1,0,Low,No,Excellent,Good,Severe,Poor,3-5 hours,5+ hours,92.5,Good
+20,Male,No,2,Single,2.72,Business,4,6.7,None,2,3,Low,Yes,Excellent,Poor,High,Good,6-8 hours,5+ hours,81.2,Good
+18,Male,Yes,1,Single,3.65,Science,6,5.6,None,3,4,Moderate,No,Excellent,Excellent,High,Good,6-8 hours,1-2 hours,81.9,Good
+24,Male,Yes,2,Single,2.55,Business,5,7.2,5+ days,2,0,Moderate,Yes,Poor,Good,High,Excellent,3-5 hours,Less than 1 hour,79.9,Good
+21,Female,No,4,Single,3.63,Business,5,6.7,None,2,9,High,No,Fair,Good,Low,Poor,6-8 hours,Less than 1 hour,63.7,Good
+17,Male,No,4,Single,4.0,Science,4,5.5,1-2 days,1,6,Low,No,Good,Fair,Low,Fair,6-8 hours,1-2 hours,77.5,Good
+20,Female,No,5,Single,2.88,Arts,3,10.0,5+ days,4,0,Severe,No,Excellent,Good,Moderate,Excellent,6-8 hours,3-4 hours,77.3,Good
+18,Female,No,4,In a relationship,2.04,Social Sciences,5,5.2,3-4 days,0,0,Low,Yes,Excellent,Good,Low,Excellent,6-8 hours,5+ hours,93.8,Good
+21,Male,No,3,Single,4.0,Science,5,3.3,3-4 days,1,1,Low,Yes,Excellent,Good,Moderate,Good,1-2 hours,5+ hours,90.8,Good
+18,Female,No,1,In a relationship,3.76,Computer Science,4,9.1,3-4 days,0,2,Low,No,Good,Good,High,Good,6-8 hours,3-4 hours,88.0,Good
+19,Female,No,5,In a relationship,2.92,Science,5,5.8,None,3,8,Moderate,No,Good,Good,High,Poor,3-5 hours,Less than 1 hour,70.3,Good
+21,Female,Yes,3,Single,3.07,Education,6,6.3,3-4 days,4,8,Severe,No,Good,Excellent,Moderate,Good,9+ hours,1-2 hours,64.0,Good
+21,Female,Yes,2,Single,2.53,Science,6,6.2,1-2 days,0,3,High,No,Fair,Good,High,Fair,9+ hours,Less than 1 hour,76.2,Good
+17,Female,Yes,1,Single,4.0,Arts,6,5.8,3-4 days,3,1,High,No,Poor,Excellent,High,Fair,6-8 hours,1-2 hours,75.7,Good
+19,Male,No,4,Single,2.88,Education,4,5.6,1-2 days,0,5,Low,No,Excellent,Fair,Moderate,Excellent,3-5 hours,3-4 hours,82.9,Good
+19,Female,No,1,Single,2.35,Computer Science,4,5.2,1-2 days,0,2,Moderate,No,Fair,Good,Low,Fair,3-5 hours,Less than 1 hour,81.7,Good
+18,Male,No,2,Single,3.33,Engineering,5,6.8,1-2 days,2,0,Moderate,No,Fair,Good,Low,Good,3-5 hours,1-2 hours,82.4,Good
+23,Male,No,5,Single,2.68,Engineering,5,6.1,1-2 days,1,0,Moderate,Yes,Poor,Good,Moderate,Excellent,6-8 hours,1-2 hours,81.2,Good
+20,Female,No,5,In a relationship,2.58,Business,3,7.8,3-4 days,14,1,Low,No,Excellent,Excellent,Low,Fair,3-5 hours,3-4 hours,76.4,Good
+17,Female,No,5,Single,2.94,Social Sciences,4,7.4,1-2 days,1,4,High,Yes,Good,Fair,Low,Excellent,6-8 hours,1-2 hours,73.3,Good
+21,Female,No,4,In a relationship,3.25,Business,5,5.3,1-2 days,1,0,Moderate,No,Good,Fair,Low,Excellent,3-5 hours,1-2 hours,83.7,Good
+24,Male,No,3,Single,2.37,Arts,4,6.9,1-2 days,6,1,High,Yes,Excellent,Excellent,Moderate,Good,9+ hours,1-2 hours,79.3,Good
+22,Female,Yes,3,In a relationship,4.0,Medicine,4,6.1,1-2 days,0,6,Moderate,Yes,Good,Good,Severe,Fair,3-5 hours,5+ hours,77.6,Good
+17,Male,No,1,Single,3.61,Computer Science,4,5.2,3-4 days,1,2,Low,No,Good,Good,Low,Fair,9+ hours,1-2 hours,86.7,Good
+19,Female,Yes,4,Single,2.98,Social Sciences,3,7.7,3-4 days,5,2,High,Yes,Poor,Good,High,Good,9+ hours,3-4 hours,69.0,Good
+22,Male,No,5,Single,2.66,Computer Science,5,6.5,3-4 days,1,4,Low,Yes,Fair,Excellent,Moderate,Fair,6-8 hours,3-4 hours,83.3,Good
+18,Female,No,5,Single,3.15,Engineering,5,6.1,5+ days,0,1,High,No,Excellent,Fair,None,Fair,6-8 hours,3-4 hours,82.1,Good
+20,Female,Yes,2,Single,3.74,Business,5,5.4,3-4 days,6,6,High,Yes,Excellent,Fair,Severe,Excellent,6-8 hours,5+ hours,65.9,Good
+21,Male,Yes,2,In a relationship,3.65,Computer Science,4,5.2,1-2 days,2,3,Low,Yes,Good,Good,Moderate,Fair,6-8 hours,1-2 hours,83.7,Good
+18,Male,No,5,Single,3.84,Engineering,4,9.7,3-4 days,2,1,Severe,No,Good,Excellent,Moderate,Good,3-5 hours,1-2 hours,78.3,Good
+19,Female,No,5,Single,2.91,Arts,5,7.2,5+ days,6,5,Moderate,No,Good,Good,High,Poor,3-5 hours,Less than 1 hour,71.4,Good
+17,Male,No,4,In a relationship,1.45,Arts,5,5.1,1-2 days,2,3,Low,No,Poor,Good,Low,Good,6-8 hours,3-4 hours,78.7,Good
+17,Female,No,3,In a relationship,3.95,Medicine,5,7.1,3-4 days,0,1,High,No,Fair,Good,Moderate,Excellent,6-8 hours,1-2 hours,79.6,Good
+19,Male,Yes,2,Single,3.1,Computer Science,4,8.3,3-4 days,4,3,Moderate,No,Fair,Excellent,None,Fair,6-8 hours,1-2 hours,77.3,Good
+17,Male,Yes,3,Single,3.6,Medicine,6,7.0,1-2 days,1,0,High,Yes,Fair,Excellent,High,Fair,3-5 hours,3-4 hours,82.4,Good
+23,Female,No,4,Single,4.0,Education,4,8.8,None,1,5,High,No,Excellent,Excellent,Moderate,Good,3-5 hours,3-4 hours,79.1,Good
+17,Female,No,5,Single,4.0,Social Sciences,5,4.4,1-2 days,10,8,Severe,No,Fair,Poor,Moderate,Good,1-2 hours,Less than 1 hour,46.2,Average
+19,Female,Yes,3,In a relationship,2.81,Computer Science,5,3.7,5+ days,3,0,Moderate,No,Fair,Fair,Low,Good,1-2 hours,3-4 hours,78.6,Good
+20,Female,No,5,Married,3.28,Arts,5,7.1,3-4 days,2,0,Moderate,No,Good,Good,Moderate,Fair,3-5 hours,3-4 hours,85.0,Good
+22,Male,No,5,In a relationship,4.0,Business,4,7.1,1-2 days,8,0,High,Yes,Excellent,Excellent,High,Fair,1-2 hours,1-2 hours,78.4,Good
+17,Female,No,1,In a relationship,2.69,Engineering,5,3.0,5+ days,0,3,Low,No,Fair,Good,Moderate,Excellent,3-5 hours,1-2 hours,83.8,Good
+22,Female,No,3,Single,2.85,Science,5,5.8,1-2 days,2,2,Moderate,No,Poor,Good,Moderate,Excellent,9+ hours,3-4 hours,76.6,Good
+20,Male,No,3,In a relationship,2.85,Medicine,4,5.2,1-2 days,1,1,Moderate,No,Good,Excellent,Moderate,Good,1-2 hours,3-4 hours,87.1,Good
+18,Non-binary,No,5,In a relationship,3.18,Science,4,4.6,3-4 days,1,1,Low,Yes,Excellent,Fair,High,Excellent,6-8 hours,1-2 hours,88.3,Good
+20,Female,No,4,Single,3.07,Computer Science,4,5.2,3-4 days,3,0,Moderate,Yes,Good,Good,Moderate,Good,3-5 hours,1-2 hours,83.7,Good
+20,Female,Yes,1,In a relationship,2.84,Business,6,7.6,None,1,3,High,Yes,Excellent,Good,High,Good,9+ hours,3-4 hours,80.0,Good
+18,Female,Yes,5,Single,2.62,Medicine,3,5.2,1-2 days,3,2,High,No,Excellent,Good,High,Fair,6-8 hours,5+ hours,79.1,Good
+20,Female,No,2,Single,3.69,Science,7,5.2,1-2 days,2,1,Low,Yes,Excellent,Excellent,Moderate,Good,3-5 hours,3-4 hours,92.0,Good
+19,Male,No,2,In a relationship,4.0,Social Sciences,5,4.3,1-2 days,2,1,Low,Yes,Good,Good,Low,Good,6-8 hours,Less than 1 hour,87.0,Good
+20,Female,No,1,Single,4.0,Business,7,8.6,1-2 days,1,5,Moderate,No,Good,Good,Moderate,Poor,3-5 hours,1-2 hours,77.9,Good
+21,Male,No,4,Single,2.91,Engineering,6,7.4,1-2 days,10,5,High,Yes,Poor,Good,High,Good,6-8 hours,5+ hours,57.5,Average
+23,Female,No,5,Single,3.71,Social Sciences,5,3.0,None,0,3,Low,No,Excellent,Good,Low,Good,3-5 hours,Less than 1 hour,88.8,Good
+17,Male,Yes,3,Single,3.34,Business,4,5.2,1-2 days,1,4,High,No,Good,Good,Moderate,Good,9+ hours,5+ hours,75.8,Good
+24,Male,No,1,In a relationship,2.86,Education,4,7.5,None,4,0,Low,No,Fair,Good,High,Good,6-8 hours,5+ hours,83.6,Good
+17,Male,No,4,Single,3.64,Medicine,4,8.6,1-2 days,1,0,High,No,Good,Fair,Moderate,Excellent,3-5 hours,Less than 1 hour,80.0,Good
+19,Female,No,3,Single,2.83,Arts,5,8.0,3-4 days,2,0,Moderate,No,Fair,Fair,Moderate,Poor,6-8 hours,5+ hours,79.9,Good
+21,Female,Yes,2,In a relationship,2.97,Engineering,4,6.2,3-4 days,4,1,High,No,Good,Good,Low,Good,3-5 hours,1-2 hours,76.9,Good
+20,Female,No,2,Single,2.37,Computer Science,4,3.8,1-2 days,2,4,Moderate,Yes,Good,Good,Low,Good,9+ hours,5+ hours,78.3,Good
+18,Male,No,3,Single,2.92,Social Sciences,5,8.0,None,2,1,High,Yes,Good,Excellent,High,Good,6-8 hours,1-2 hours,82.0,Good
+19,Male,No,1,Single,3.35,Social Sciences,6,6.3,None,3,5,Moderate,No,Excellent,Excellent,None,Fair,6-8 hours,1-2 hours,80.3,Good
+19,Male,No,2,In a relationship,4.0,Science,4,6.8,1-2 days,3,0,High,No,Fair,Excellent,Low,Fair,3-5 hours,3-4 hours,79.8,Good
+18,Male,No,5,Single,2.99,Medicine,3,6.4,None,1,1,High,No,Good,Good,High,Excellent,9+ hours,3-4 hours,80.8,Good
+21,Male,No,3,Single,2.58,Computer Science,3,4.7,1-2 days,7,1,Low,No,Good,Good,Moderate,Good,6-8 hours,Less than 1 hour,80.6,Good
+20,Female,No,3,Single,4.0,Arts,6,7.2,None,0,1,High,No,Good,Good,Severe,Excellent,3-5 hours,3-4 hours,82.1,Good
+18,Male,No,2,Single,2.9,Business,5,7.0,3-4 days,1,1,Moderate,Yes,Excellent,Fair,Severe,Good,3-5 hours,1-2 hours,84.5,Good
+21,Female,Yes,1,Single,2.15,Arts,4,6.1,1-2 days,4,0,Low,No,Good,Fair,Low,Good,3-5 hours,1-2 hours,83.6,Good
+20,Female,No,5,Single,3.28,Medicine,4,7.4,None,0,2,Moderate,No,Good,Good,None,Excellent,9+ hours,1-2 hours,84.2,Good
+21,Female,No,1,Single,3.01,Medicine,4,4.6,3-4 days,0,1,Low,No,Fair,Excellent,High,Good,3-5 hours,1-2 hours,89.6,Good
+21,Female,No,4,In a relationship,4.0,Education,4,6.3,1-2 days,4,6,High,No,Excellent,Fair,Moderate,Fair,6-8 hours,1-2 hours,68.5,Good
+18,Female,No,4,Single,3.49,Education,6,6.7,None,3,3,High,Yes,Good,Poor,Low,Good,1-2 hours,Less than 1 hour,69.9,Good
+18,Male,No,2,In a relationship,3.11,Arts,5,4.1,1-2 days,1,2,Low,No,Excellent,Excellent,High,Excellent,3-5 hours,Less than 1 hour,91.6,Good
+21,Female,No,2,Divorced,2.65,Business,5,6.6,1-2 days,2,6,Moderate,No,Poor,Good,None,Fair,6-8 hours,Less than 1 hour,69.9,Good
+21,Male,No,2,In a relationship,3.4,Arts,6,7.8,3-4 days,1,5,High,Yes,Fair,Excellent,High,Fair,9+ hours,1-2 hours,74.1,Good
+19,Female,Yes,4,Single,4.0,Medicine,4,6.2,None,5,7,Severe,No,Good,Excellent,Low,Poor,6-8 hours,5+ hours,64.4,Good
+20,Female,No,1,Single,3.39,Medicine,5,6.6,1-2 days,4,0,Moderate,No,Excellent,Excellent,Low,Excellent,9+ hours,Less than 1 hour,87.3,Good
+22,Female,No,1,Single,2.69,Science,6,7.5,1-2 days,2,0,Severe,No,Good,Good,Low,Poor,6-8 hours,5+ hours,77.5,Good
+18,Female,Yes,2,Single,3.52,Education,4,6.1,None,3,0,Moderate,No,Excellent,Good,Severe,Good,1-2 hours,3-4 hours,86.1,Good
+21,Male,No,5,Single,3.17,Computer Science,5,6.3,3-4 days,3,4,Moderate,Yes,Good,Good,Moderate,Good,3-5 hours,3-4 hours,77.0,Good
+19,Female,No,1,In a relationship,3.47,Computer Science,4,4.9,3-4 days,0,0,High,No,Good,Good,High,Good,6-8 hours,3-4 hours,83.8,Good
+19,Male,No,4,In a relationship,2.99,Computer Science,4,6.7,1-2 days,0,2,Moderate,No,Fair,Good,Moderate,Good,9+ hours,5+ hours,81.7,Good
+22,Female,No,3,Single,2.97,Science,4,6.2,1-2 days,4,0,Moderate,No,Excellent,Fair,Moderate,Poor,9+ hours,Less than 1 hour,82.3,Good
+21,Male,No,3,Single,2.95,Engineering,5,7.4,None,5,5,Moderate,Yes,Fair,Good,Low,Good,3-5 hours,3-4 hours,70.2,Good
+21,Male,No,3,In a relationship,3.77,Computer Science,5,7.5,3-4 days,1,2,High,No,Excellent,Good,Moderate,Good,3-5 hours,3-4 hours,81.6,Good
+22,Male,No,5,Single,2.98,Medicine,6,7.9,None,9,5,High,No,Excellent,Excellent,Moderate,Excellent,3-5 hours,3-4 hours,68.8,Good
+20,Female,No,2,Single,2.92,Science,5,5.9,None,2,2,Moderate,Yes,Excellent,Excellent,Moderate,Fair,9+ hours,5+ hours,86.6,Good
+21,Female,No,4,In a relationship,2.63,Arts,6,3.4,1-2 days,0,0,Moderate,No,Good,Good,Low,Excellent,9+ hours,Less than 1 hour,87.6,Good
+19,Female,No,5,Single,3.47,Education,6,7.8,1-2 days,3,1,Moderate,Yes,Good,Fair,Severe,Good,6-8 hours,3-4 hours,79.4,Good
+20,Male,No,4,Single,3.39,Education,4,7.3,1-2 days,12,4,Moderate,No,Excellent,Excellent,Low,Excellent,3-5 hours,3-4 hours,70.3,Good
+19,Female,No,4,Single,2.93,Business,5,5.7,None,2,0,Moderate,Yes,Fair,Good,Severe,Good,6-8 hours,1-2 hours,82.4,Good
+20,Female,No,2,In a relationship,2.77,Arts,4,7.5,1-2 days,3,0,High,No,Good,Excellent,None,Good,6-8 hours,1-2 hours,82.4,Good
+21,Male,No,3,Single,4.0,Business,5,4.5,1-2 days,9,0,Moderate,No,Poor,Excellent,Moderate,Excellent,3-5 hours,3-4 hours,73.3,Good
+18,Female,No,2,Single,2.07,Science,6,8.2,None,0,1,Moderate,No,Good,Fair,Moderate,Excellent,6-8 hours,5+ hours,83.3,Good
+24,Male,Yes,5,Single,3.5,Social Sciences,4,6.2,3-4 days,0,3,Low,No,Fair,Excellent,Moderate,Good,1-2 hours,1-2 hours,86.2,Good
+17,Female,No,5,Single,3.97,Computer Science,5,5.5,None,2,4,Moderate,No,Fair,Poor,Moderate,Fair,3-5 hours,5+ hours,70.7,Good
+17,Female,Yes,5,Single,1.17,Engineering,5,5.8,1-2 days,1,0,Severe,No,Good,Good,Moderate,Fair,9+ hours,1-2 hours,78.8,Good
+22,Male,No,2,In a relationship,3.68,Arts,5,6.4,3-4 days,2,0,Moderate,Yes,Good,Good,Moderate,Fair,6-8 hours,Less than 1 hour,85.0,Good
+21,Female,No,4,Single,3.07,Arts,4,6.7,1-2 days,0,0,Low,Yes,Good,Fair,High,Fair,6-8 hours,Less than 1 hour,88.8,Good
+21,Male,No,4,In a relationship,3.35,Arts,4,6.8,1-2 days,7,1,Moderate,No,Poor,Excellent,Moderate,Fair,6-8 hours,Less than 1 hour,74.3,Good
+21,Female,No,1,Single,3.01,Business,3,6.1,3-4 days,4,0,Moderate,Yes,Good,Poor,High,Excellent,3-5 hours,1-2 hours,77.3,Good
+19,Female,No,5,Single,3.85,Science,4,7.0,None,3,2,Low,No,Fair,Fair,Low,Poor,6-8 hours,1-2 hours,79.0,Good
+18,Male,No,4,Single,3.42,Arts,3,6.7,5+ days,2,5,Moderate,No,Good,Good,Moderate,Good,6-8 hours,3-4 hours,76.6,Good
+20,Male,No,1,Single,3.28,Social Sciences,5,5.7,1-2 days,1,0,Moderate,No,Good,Excellent,Moderate,Fair,6-8 hours,3-4 hours,88.7,Good
+18,Male,No,4,Single,2.66,Arts,4,5.5,1-2 days,0,0,Moderate,No,Good,Excellent,Moderate,Fair,6-8 hours,Less than 1 hour,90.0,Good
+21,Female,No,5,Single,4.0,Education,6,7.6,1-2 days,7,7,Moderate,No,Excellent,Excellent,Moderate,Poor,3-5 hours,1-2 hours,71.8,Good
+19,Male,Yes,3,Single,3.21,Computer Science,5,7.5,1-2 days,3,2,Moderate,No,Good,Good,Moderate,Fair,3-5 hours,1-2 hours,80.3,Good
+18,Female,No,5,Single,4.0,Engineering,5,6.8,3-4 days,1,0,Severe,No,Excellent,Good,Low,Good,6-8 hours,3-4 hours,81.2,Good
+19,Female,No,2,Single,4.0,Computer Science,5,8.1,3-4 days,4,13,Moderate,No,Good,Poor,Low,Excellent,3-5 hours,Less than 1 hour,55.7,Average
+20,Male,No,4,In a relationship,2.13,Education,5,3.8,3-4 days,4,1,Moderate,Yes,Good,Fair,Low,Fair,6-8 hours,Less than 1 hour,78.1,Good
+18,Female,No,4,In a relationship,2.81,Education,6,5.9,5+ days,3,3,Moderate,No,Good,Good,Moderate,Good,3-5 hours,5+ hours,78.7,Good
+18,Male,No,2,Single,2.58,Engineering,3,5.0,3-4 days,8,0,Moderate,No,Poor,Good,Moderate,Good,3-5 hours,5+ hours,72.2,Good
+20,Female,No,2,Single,3.17,Social Sciences,4,10.0,1-2 days,6,0,High,No,Good,Good,Severe,Excellent,3-5 hours,1-2 hours,76.0,Good
+20,Female,No,3,Single,3.31,Science,5,7.8,1-2 days,4,3,Moderate,Yes,Good,Excellent,High,Good,9+ hours,1-2 hours,79.8,Good
+18,Female,No,4,Single,3.34,Education,3,6.6,1-2 days,1,7,High,Yes,Good,Good,None,Good,3-5 hours,1-2 hours,70.8,Good
+19,Male,Yes,4,Single,3.83,Science,3,7.9,None,1,1,Low,No,Poor,Fair,High,Good,6-8 hours,3-4 hours,80.8,Good
+20,Male,No,3,In a relationship,4.0,Education,4,8.4,3-4 days,6,0,Moderate,No,Poor,Fair,High,Excellent,6-8 hours,3-4 hours,72.2,Good
+17,Male,No,1,Single,3.78,Medicine,3,8.4,1-2 days,6,4,High,No,Excellent,Excellent,Moderate,Poor,1-2 hours,Less than 1 hour,74.3,Good
+17,Male,No,3,Single,2.86,Engineering,5,8.1,None,13,1,Moderate,No,Good,Excellent,Moderate,Good,6-8 hours,3-4 hours,71.5,Good
+18,Male,No,5,In a relationship,2.73,Education,4,6.3,None,2,2,Moderate,No,Fair,Excellent,Severe,Excellent,6-8 hours,1-2 hours,81.5,Good
+19,Male,No,4,Single,3.2,Medicine,6,5.9,1-2 days,2,1,Moderate,No,Good,Fair,Moderate,Good,6-8 hours,1-2 hours,80.7,Good
+20,Female,No,2,In a relationship,3.46,Computer Science,5,5.3,1-2 days,0,1,High,No,Good,Excellent,Severe,Good,9+ hours,1-2 hours,84.6,Good
+22,Female,No,5,Single,3.09,Business,5,7.5,1-2 days,8,0,Low,Yes,Excellent,Good,None,Good,3-5 hours,1-2 hours,83.4,Good
+21,Female,No,4,Single,2.39,Medicine,5,6.5,1-2 days,3,3,High,No,Poor,Poor,Low,Fair,1-2 hours,1-2 hours,64.9,Good
+19,Non-binary,No,3,Single,3.61,Arts,6,6.1,1-2 days,8,2,Low,No,Fair,Excellent,Moderate,Good,9+ hours,1-2 hours,77.5,Good
+19,Male,No,5,Single,2.96,Education,4,6.0,3-4 days,0,2,High,No,Excellent,Good,Moderate,Good,3-5 hours,1-2 hours,82.9,Good
+17,Female,Yes,4,Married,2.95,Medicine,6,8.9,None,2,0,Moderate,No,Poor,Good,High,Good,6-8 hours,Less than 1 hour,79.9,Good
+19,Male,No,1,Single,3.17,Science,5,8.1,None,1,2,High,No,Fair,Fair,Severe,Good,6-8 hours,3-4 hours,74.1,Good
+19,Male,Yes,1,Married,3.06,Business,5,9.4,1-2 days,4,8,Moderate,No,Excellent,Good,Moderate,Excellent,3-5 hours,1-2 hours,71.5,Good
+20,Female,No,2,Single,2.98,Social Sciences,5,7.5,1-2 days,3,0,Severe,No,Good,Excellent,None,Fair,6-8 hours,Less than 1 hour,78.6,Good
+18,Male,No,4,Single,2.43,Education,4,6.8,None,3,0,Low,No,Fair,Good,High,Good,3-5 hours,3-4 hours,84.9,Good
+21,Male,No,1,Single,3.13,Arts,5,6.7,1-2 days,1,0,Low,Yes,Poor,Good,Moderate,Good,3-5 hours,3-4 hours,85.0,Good
+23,Female,No,3,Single,3.62,Social Sciences,5,5.2,None,3,1,Moderate,Yes,Poor,Fair,Low,Good,3-5 hours,5+ hours,74.4,Good
+19,Male,Yes,4,In a relationship,3.36,Medicine,3,4.8,1-2 days,4,0,Low,No,Fair,Good,Moderate,Fair,9+ hours,1-2 hours,83.6,Good
+20,Female,No,3,Single,3.77,Social Sciences,5,7.5,1-2 days,2,2,Low,No,Excellent,Good,High,Good,3-5 hours,1-2 hours,87.8,Good
+21,Male,No,3,Single,2.76,Social Sciences,4,5.3,1-2 days,1,0,Severe,No,Good,Good,High,Excellent,6-8 hours,3-4 hours,78.8,Good
+19,Non-binary,Yes,1,Single,2.43,Business,4,7.0,3-4 days,0,3,Severe,No,Excellent,Good,Moderate,Good,9+ hours,3-4 hours,77.5,Good
+20,Male,No,4,Single,3.05,Computer Science,4,8.4,1-2 days,5,2,Moderate,No,Excellent,Fair,Moderate,Excellent,6-8 hours,1-2 hours,77.7,Good
+20,Female,No,5,Single,2.83,Social Sciences,3,5.7,5+ days,3,8,Severe,Yes,Good,Excellent,Severe,Excellent,6-8 hours,5+ hours,65.3,Good
+20,Male,No,1,Single,2.89,Social Sciences,5,9.7,1-2 days,14,0,Moderate,Yes,Fair,Good,Moderate,Fair,6-8 hours,Less than 1 hour,66.9,Good
+18,Male,No,1,In a relationship,3.33,Education,4,5.2,1-2 days,5,4,Moderate,Yes,Good,Good,Moderate,Fair,3-5 hours,5+ hours,74.4,Good
+20,Female,No,4,Single,2.9,Computer Science,7,8.2,3-4 days,0,1,High,No,Excellent,Good,Low,Excellent,6-8 hours,5+ hours,84.6,Good
+20,Male,No,4,Single,2.45,Business,5,7.3,3-4 days,4,1,High,Yes,Excellent,Good,High,Excellent,6-8 hours,3-4 hours,79.4,Good
+22,Female,No,3,Single,2.86,Arts,4,8.5,1-2 days,4,0,Severe,No,Poor,Excellent,Low,Poor,9+ hours,5+ hours,72.3,Good
+21,Male,No,4,Single,3.4,Medicine,5,5.0,1-2 days,2,1,Moderate,No,Good,Excellent,Low,Poor,9+ hours,3-4 hours,85.8,Good
+24,Female,No,3,Divorced,3.6,Business,6,10.0,None,5,1,High,No,Good,Good,Moderate,Fair,9+ hours,1-2 hours,75.7,Good
+18,Female,No,1,Single,3.6,Business,5,6.4,None,3,0,Low,Yes,Excellent,Excellent,Low,Excellent,9+ hours,1-2 hours,92.4,Good
+21,Female,No,2,Single,3.45,Engineering,3,7.7,1-2 days,2,2,Low,No,Fair,Good,Moderate,Fair,6-8 hours,Less than 1 hour,82.8,Good
+20,Male,Yes,5,Single,3.1,Business,6,8.9,1-2 days,5,2,Low,No,Good,Fair,Low,Good,6-8 hours,1-2 hours,78.9,Good
+24,Female,No,1,Single,3.44,Computer Science,5,5.8,1-2 days,0,3,Severe,No,Excellent,Good,Moderate,Excellent,9+ hours,3-4 hours,77.5,Good
+18,Male,No,4,Single,3.17,Engineering,4,7.9,None,8,0,High,No,Good,Good,Low,Poor,3-5 hours,1-2 hours,73.4,Good
+18,Female,No,5,Married,3.27,Medicine,3,5.5,3-4 days,10,3,High,Yes,Good,Good,None,Good,9+ hours,1-2 hours,65.8,Good
+18,Female,No,2,In a relationship,2.64,Social Sciences,5,8.8,3-4 days,0,5,Moderate,No,Poor,Excellent,Low,Fair,6-8 hours,3-4 hours,76.7,Good
+17,Female,No,2,Married,3.23,Education,4,5.6,5+ days,4,1,Moderate,No,Fair,Good,Severe,Excellent,6-8 hours,5+ hours,78.1,Good
+18,Male,Yes,3,Single,3.43,Education,6,6.8,1-2 days,0,0,Low,No,Good,Excellent,High,Fair,6-8 hours,Less than 1 hour,93.8,Good
+18,Female,No,5,Single,3.4,Medicine,4,7.2,3-4 days,1,1,Moderate,No,Excellent,Excellent,Low,Good,9+ hours,1-2 hours,89.5,Good
+20,Male,No,3,Single,2.43,Medicine,6,7.9,3-4 days,1,1,Moderate,No,Fair,Good,High,Good,3-5 hours,1-2 hours,82.0,Good
+20,Male,No,1,Single,3.26,Computer Science,5,9.7,1-2 days,3,1,High,Yes,Good,Good,Moderate,Fair,6-8 hours,3-4 hours,78.2,Good
+23,Male,No,5,In a relationship,2.33,Science,4,6.0,1-2 days,3,3,Moderate,No,Good,Good,Severe,Poor,6-8 hours,Less than 1 hour,78.7,Good
+21,Female,No,1,Single,3.3,Social Sciences,4,8.4,5+ days,1,1,Low,No,Fair,Excellent,Moderate,Good,3-5 hours,3-4 hours,88.3,Good
+18,Female,No,3,In a relationship,2.78,Medicine,5,9.7,1-2 days,0,0,Low,No,Good,Good,Moderate,Fair,6-8 hours,1-2 hours,91.3,Good
+18,Male,Yes,5,In a relationship,4.0,Business,5,6.9,1-2 days,1,2,Low,No,Excellent,Poor,None,Excellent,6-8 hours,1-2 hours,84.1,Good
+20,Female,No,3,Single,3.27,Computer Science,5,5.9,None,8,3,Moderate,No,Excellent,Good,Moderate,Excellent,6-8 hours,5+ hours,74.7,Good
+17,Male,No,5,Single,3.68,Education,4,4.1,None,4,3,Severe,No,Good,Good,Severe,Good,3-5 hours,Less than 1 hour,69.9,Good
+23,Female,No,3,Single,4.0,Arts,4,9.5,3-4 days,0,1,High,Yes,Good,Fair,Moderate,Good,6-8 hours,1-2 hours,79.6,Good
+22,Male,No,2,Single,2.71,Computer Science,3,6.3,1-2 days,2,2,High,No,Fair,Poor,Low,Good,6-8 hours,Less than 1 hour,70.3,Good
+19,Male,No,3,In a relationship,3.46,Education,5,5.2,1-2 days,1,5,Moderate,No,Excellent,Good,Low,Excellent,6-8 hours,1-2 hours,80.4,Good
+17,Non-binary,No,2,Single,2.49,Engineering,3,4.7,None,8,4,Moderate,No,Fair,Good,High,Good,3-5 hours,3-4 hours,68.0,Good
+22,Female,No,3,Single,3.41,Computer Science,5,5.2,1-2 days,1,1,Low,No,Excellent,Good,Moderate,Fair,9+ hours,1-2 hours,90.8,Good
+19,Male,No,5,Single,4.0,Education,5,8.1,1-2 days,1,5,High,No,Fair,Good,Moderate,Fair,6-8 hours,Less than 1 hour,71.6,Good
+22,Female,No,5,Divorced,2.82,Science,6,8.3,None,8,0,High,No,Excellent,Fair,Severe,Good,6-8 hours,1-2 hours,73.4,Good
+17,Female,No,5,Single,2.67,Computer Science,4,7.7,3-4 days,6,1,Low,No,Excellent,Good,None,Good,6-8 hours,3-4 hours,84.3,Good
+18,Male,No,4,In a relationship,3.15,Computer Science,4,6.9,None,2,0,Moderate,No,Excellent,Good,Moderate,Good,3-5 hours,3-4 hours,87.4,Good
+20,Male,No,1,Single,4.0,Social Sciences,5,4.8,1-2 days,0,2,Moderate,No,Fair,Good,Severe,Poor,6-8 hours,3-4 hours,81.7,Good
+20,Non-binary,No,5,In a relationship,3.66,Medicine,5,5.6,3-4 days,4,5,High,No,Good,Good,Moderate,Good,6-8 hours,3-4 hours,70.3,Good
+19,Male,No,2,In a relationship,2.66,Social Sciences,4,5.0,1-2 days,0,1,Severe,No,Good,Good,Low,Fair,6-8 hours,1-2 hours,78.4,Good
+21,Female,No,5,Single,4.0,Computer Science,6,7.6,3-4 days,3,0,Moderate,Yes,Excellent,Fair,Moderate,Fair,6-8 hours,1-2 hours,83.6,Good
+17,Female,No,4,Single,2.21,Medicine,6,5.1,3-4 days,4,0,Moderate,No,Fair,Fair,High,Good,6-8 hours,1-2 hours,77.3,Good
+19,Male,No,2,In a relationship,4.0,Education,4,5.6,3-4 days,0,2,Low,No,Excellent,Fair,Low,Fair,3-5 hours,1-2 hours,87.9,Good
+20,Female,No,4,Single,3.71,Arts,4,6.4,None,1,0,Low,Yes,Excellent,Excellent,Severe,Good,6-8 hours,1-2 hours,95.0,Good
+21,Female,Yes,2,In a relationship,4.0,Arts,5,4.2,None,3,7,Low,Yes,Fair,Excellent,High,Fair,3-5 hours,3-4 hours,75.7,Good
+21,Female,No,3,Single,2.21,Computer Science,5,6.8,1-2 days,3,1,Low,No,Excellent,Excellent,Low,Good,3-5 hours,3-4 hours,90.7,Good
+17,Female,No,1,In a relationship,3.3,Science,3,6.5,1-2 days,4,6,High,No,Good,Excellent,High,Good,9+ hours,5+ hours,71.1,Good
+17,Female,No,1,In a relationship,3.12,Engineering,5,8.5,3-4 days,1,2,High,No,Good,Good,Moderate,Fair,6-8 hours,1-2 hours,79.2,Good
+22,Female,Yes,4,In a relationship,2.6,Education,5,5.5,3-4 days,1,3,Low,Yes,Good,Good,Moderate,Fair,6-8 hours,3-4 hours,85.0,Good
+20,Female,No,1,Single,2.42,Medicine,4,4.8,3-4 days,1,3,High,No,Good,Good,High,Excellent,6-8 hours,5+ hours,77.5,Good
+18,Female,No,4,Single,3.5,Computer Science,5,6.1,5+ days,6,0,Low,No,Excellent,Poor,Severe,Good,9+ hours,3-4 hours,81.0,Good
+23,Non-binary,No,4,Single,3.56,Education,6,5.1,3-4 days,2,3,Moderate,No,Good,Good,Low,Good,6-8 hours,1-2 hours,80.0,Good
+20,Female,Yes,4,Single,3.98,Computer Science,3,6.8,1-2 days,5,1,Moderate,No,Good,Excellent,Moderate,Poor,6-8 hours,1-2 hours,81.9,Good
+22,Female,Yes,1,Single,2.9,Science,4,3.9,1-2 days,5,0,Moderate,No,Good,Good,Moderate,Good,3-5 hours,Less than 1 hour,81.1,Good
+20,Male,No,4,Single,3.12,Business,5,5.8,3-4 days,10,1,Moderate,No,Excellent,Good,Moderate,Good,9+ hours,1-2 hours,75.4,Good
+24,Female,No,1,In a relationship,2.37,Business,6,5.3,None,0,0,Moderate,No,Poor,Good,Moderate,Good,9+ hours,3-4 hours,82.5,Good
+23,Male,No,4,Single,4.0,Science,7,7.6,None,3,1,Moderate,No,Excellent,Good,None,Good,9+ hours,Less than 1 hour,84.5,Good
+19,Male,No,5,Single,3.24,Medicine,5,5.5,1-2 days,2,1,Severe,No,Good,Good,Moderate,Fair,3-5 hours,1-2 hours,75.8,Good
+21,Female,No,4,Single,3.63,Social Sciences,5,4.1,3-4 days,2,0,Low,Yes,Fair,Excellent,Moderate,Fair,3-5 hours,3-4 hours,88.6,Good
+21,Female,No,2,Single,3.65,Science,5,6.4,None,4,2,Low,Yes,Fair,Good,Low,Excellent,3-5 hours,3-4 hours,80.2,Good
+22,Male,No,4,Single,4.0,Computer Science,5,7.2,3-4 days,1,1,Low,No,Good,Excellent,High,Excellent,3-5 hours,1-2 hours,90.8,Good
+18,Male,No,3,Married,2.7,Medicine,4,6.3,3-4 days,1,0,High,No,Excellent,Good,High,Fair,9+ hours,3-4 hours,85.0,Good
+21,Female,Yes,4,In a relationship,3.62,Arts,4,5.8,1-2 days,0,0,Low,Yes,Good,Excellent,Moderate,Good,1-2 hours,1-2 hours,93.8,Good
+22,Male,No,2,Single,3.18,Science,4,5.7,None,1,1,High,Yes,Excellent,Good,Low,Fair,1-2 hours,1-2 hours,83.3,Good
+17,Female,No,2,Single,4.0,Medicine,5,6.9,None,8,1,Moderate,Yes,Poor,Good,Moderate,Poor,3-5 hours,1-2 hours,70.5,Good
+17,Non-binary,No,1,In a relationship,2.7,Science,3,5.4,3-4 days,4,2,Moderate,No,Good,Good,Low,Fair,3-5 hours,3-4 hours,79.0,Good
+17,Female,No,5,Single,3.9,Science,6,6.2,3-4 days,4,1,Moderate,No,Excellent,Excellent,Low,Fair,3-5 hours,5+ hours,85.6,Good
+19,Male,No,4,Single,3.41,Social Sciences,4,7.8,3-4 days,4,0,Low,No,Excellent,Excellent,High,Good,6-8 hours,Less than 1 hour,91.1,Good
+21,Male,No,1,Single,3.38,Social Sciences,4,4.7,1-2 days,2,0,Low,No,Fair,Fair,None,Good,6-8 hours,3-4 hours,83.6,Good
+23,Male,Yes,5,Single,3.23,Computer Science,5,6.6,None,5,3,Moderate,No,Good,Fair,None,Fair,1-2 hours,1-2 hours,73.5,Good
+20,Female,Yes,4,Single,4.0,Medicine,5,4.0,None,1,0,Moderate,No,Fair,Excellent,None,Poor,6-8 hours,3-4 hours,86.2,Good
+23,Female,No,3,Single,3.36,Medicine,3,7.0,3-4 days,2,6,Moderate,Yes,Good,Good,Low,Excellent,6-8 hours,Less than 1 hour,75.0,Good
+17,Female,No,4,Single,2.29,Engineering,4,5.2,None,1,0,Low,No,Excellent,Good,None,Fair,3-5 hours,1-2 hours,92.5,Good
+17,Female,No,2,In a relationship,3.93,Science,7,8.2,1-2 days,6,3,Severe,No,Excellent,Good,Severe,Good,6-8 hours,5+ hours,69.7,Good
+19,Female,Yes,2,Single,3.82,Business,4,4.5,1-2 days,1,1,Low,No,Fair,Fair,Low,Fair,6-8 hours,3-4 hours,83.2,Good
+20,Male,Yes,3,In a relationship,3.55,Science,4,7.4,None,1,0,High,Yes,Excellent,Excellent,Low,Good,6-8 hours,1-2 hours,87.5,Good
+19,Female,No,1,In a relationship,2.52,Science,6,8.5,None,1,1,High,No,Good,Excellent,Low,Fair,6-8 hours,1-2 hours,83.3,Good
+17,Female,No,5,Single,2.62,Medicine,3,5.2,1-2 days,8,0,Moderate,No,Good,Good,Severe,Poor,1-2 hours,1-2 hours,77.2,Good
+19,Male,No,4,Single,2.07,Science,5,5.4,1-2 days,5,0,Low,No,Good,Good,Moderate,Fair,9+ hours,1-2 hours,84.8,Good
+17,Male,No,2,Single,3.48,Education,4,5.3,None,3,1,Low,Yes,Good,Excellent,Moderate,Fair,9+ hours,5+ hours,88.2,Good
+21,Male,No,1,Single,2.39,Science,4,6.0,3-4 days,4,3,High,No,Good,Fair,High,Good,9+ hours,5+ hours,71.1,Good
+20,Non-binary,Yes,3,In a relationship,2.17,Education,4,7.5,3-4 days,0,0,High,Yes,Good,Excellent,Moderate,Good,1-2 hours,1-2 hours,86.3,Good
+18,Female,No,2,Single,3.96,Social Sciences,3,5.8,1-2 days,4,2,High,No,Good,Good,Moderate,Fair,9+ hours,1-2 hours,75.3,Good
+18,Female,Yes,3,Divorced,3.66,Business,4,5.0,3-4 days,3,3,Severe,No,Fair,Good,Low,Poor,9+ hours,5+ hours,68.6,Good
+17,Male,No,4,Single,3.0,Computer Science,3,3.7,1-2 days,1,1,High,No,Excellent,Excellent,Moderate,Good,9+ hours,1-2 hours,85.8,Good
+19,Male,No,5,Single,3.12,Medicine,5,9.1,1-2 days,0,2,Low,No,Good,Good,Moderate,Good,1-2 hours,3-4 hours,88.0,Good
+21,Female,No,2,Single,1.76,Science,4,9.2,3-4 days,2,1,Moderate,No,Fair,Good,Moderate,Excellent,6-8 hours,1-2 hours,80.7,Good
+18,Male,No,2,Single,3.75,Education,5,7.5,3-4 days,2,2,High,No,Excellent,Good,Low,Good,9+ hours,3-4 hours,80.3,Good
+21,Female,No,4,Single,2.78,Education,6,5.5,3-4 days,0,0,Moderate,No,Excellent,Good,Moderate,Good,6-8 hours,3-4 hours,90.0,Good
+18,Female,No,1,Single,3.4,Social Sciences,5,7.8,None,3,6,Low,No,Excellent,Good,None,Good,6-8 hours,5+ hours,79.9,Good
+18,Female,No,5,Single,1.71,Education,3,8.1,None,4,0,High,No,Good,Excellent,Low,Excellent,9+ hours,3-4 hours,81.1,Good
+19,Male,No,2,Single,3.79,Computer Science,6,6.3,3-4 days,5,1,Moderate,No,Fair,Excellent,Moderate,Excellent,6-8 hours,1-2 hours,79.3,Good
+17,Male,No,5,Married,2.75,Arts,4,6.8,1-2 days,2,0,Severe,No,Good,Good,Severe,Fair,6-8 hours,3-4 hours,77.5,Good
+18,Female,No,2,Single,2.37,Engineering,4,8.5,1-2 days,2,0,High,No,Fair,Good,Moderate,Fair,6-8 hours,5+ hours,78.7,Good
+17,Male,No,5,In a relationship,3.0,Computer Science,5,4.2,3-4 days,5,2,Low,No,Excellent,Poor,Moderate,Fair,9+ hours,1-2 hours,78.9,Good
+23,Female,No,3,In a relationship,2.84,Business,5,8.2,3-4 days,2,6,Severe,No,Fair,Poor,Low,Good,1-2 hours,1-2 hours,59.9,Average
+20,Female,No,2,In a relationship,3.84,Computer Science,5,6.2,3-4 days,1,3,Moderate,No,Fair,Good,Low,Good,6-8 hours,Less than 1 hour,78.7,Good
+18,Male,No,5,Single,2.95,Social Sciences,4,5.0,1-2 days,1,1,Moderate,No,Good,Excellent,None,Good,6-8 hours,1-2 hours,87.1,Good
+20,Male,Yes,1,In a relationship,4.0,Social Sciences,5,5.2,3-4 days,4,0,Moderate,No,Good,Good,Moderate,Poor,6-8 hours,1-2 hours,82.4,Good
+19,Male,No,3,Single,3.4,Computer Science,4,5.4,None,2,5,Low,No,Excellent,Excellent,Low,Good,6-8 hours,3-4 hours,85.3,Good
+19,Male,No,3,Single,3.74,Science,6,4.9,None,1,0,Moderate,Yes,Good,Poor,Low,Excellent,9+ hours,1-2 hours,81.2,Good
+21,Male,Yes,1,Single,3.2,Arts,4,9.4,1-2 days,1,2,Low,Yes,Fair,Good,High,Fair,9+ hours,5+ hours,84.1,Good
+21,Male,No,5,In a relationship,3.96,Science,6,7.4,None,1,1,Moderate,No,Fair,Good,None,Good,1-2 hours,1-2 hours,82.0,Good
+18,Female,No,4,Single,2.51,Science,5,8.3,1-2 days,2,2,Moderate,No,Good,Good,Moderate,Good,6-8 hours,1-2 hours,81.6,Good
+18,Female,No,1,In a relationship,3.27,Computer Science,6,7.5,3-4 days,7,5,High,No,Fair,Fair,Moderate,Excellent,1-2 hours,1-2 hours,61.3,Good
+19,Female,Yes,5,Single,2.96,Medicine,5,6.8,1-2 days,6,3,High,No,Good,Excellent,Moderate,Excellent,3-5 hours,1-2 hours,73.5,Good
+17,Female,No,1,In a relationship,4.0,Medicine,5,6.8,None,8,1,Low,Yes,Good,Good,Moderate,Good,6-8 hours,1-2 hours,79.3,Good
+17,Male,No,1,Divorced,4.0,Medicine,4,6.1,1-2 days,1,5,Moderate,No,Excellent,Excellent,Moderate,Good,9+ hours,1-2 hours,82.9,Good
+22,Female,No,2,Single,3.2,Arts,4,6.2,1-2 days,0,4,Moderate,Yes,Excellent,Good,Low,Excellent,9+ hours,1-2 hours,83.4,Good
+23,Female,No,5,Divorced,2.43,Science,4,4.6,1-2 days,1,1,Low,No,Excellent,Excellent,High,Good,3-5 hours,3-4 hours,93.3,Good
+19,Female,No,4,Single,3.46,Engineering,6,8.3,3-4 days,3,3,High,No,Excellent,Good,High,Fair,1-2 hours,3-4 hours,77.4,Good
+21,Male,No,2,Single,2.2,Business,6,4.0,3-4 days,3,4,High,Yes,Fair,Excellent,Low,Good,6-8 hours,1-2 hours,73.2,Good
+20,Female,No,1,Single,4.0,Medicine,5,5.1,1-2 days,13,1,Low,No,Fair,Poor,None,Fair,6-8 hours,3-4 hours,65.2,Good
+26,Male,No,1,Single,2.92,Medicine,4,9.7,3-4 days,4,7,Moderate,No,Good,Excellent,High,Fair,3-5 hours,3-4 hours,73.2,Good
+22,Female,Yes,1,Single,3.18,Social Sciences,4,6.9,None,1,5,Low,No,Excellent,Excellent,Moderate,Excellent,9+ hours,Less than 1 hour,86.6,Good
+19,Female,No,5,Single,2.79,Science,5,7.0,1-2 days,6,1,High,Yes,Excellent,Fair,Moderate,Good,9+ hours,5+ hours,74.3,Good
+18,Male,No,5,Single,2.66,Science,5,7.7,3-4 days,0,1,Low,No,Excellent,Fair,Moderate,Good,6-8 hours,5+ hours,89.6,Good
+17,Male,No,2,In a relationship,3.64,Arts,5,4.4,1-2 days,1,4,Severe,Yes,Fair,Good,Low,Fair,9+ hours,1-2 hours,69.5,Good
+20,Female,No,4,In a relationship,3.1,Arts,7,4.6,5+ days,1,9,High,No,Excellent,Excellent,Moderate,Fair,3-5 hours,1-2 hours,72.5,Good
+18,Male,No,2,In a relationship,3.23,Medicine,4,6.0,1-2 days,6,0,Moderate,No,Good,Good,Moderate,Fair,6-8 hours,Less than 1 hour,79.8,Good
+17,Male,No,3,In a relationship,2.6,Science,5,5.3,3-4 days,3,2,Moderate,No,Poor,Good,Low,Fair,6-8 hours,Less than 1 hour,75.3,Good
+18,Female,Yes,1,In a relationship,3.71,Engineering,5,6.6,1-2 days,1,3,Severe,Yes,Good,Fair,Moderate,Good,3-5 hours,3-4 hours,71.2,Good
+17,Male,No,1,Single,3.77,Business,4,7.4,1-2 days,0,5,Moderate,No,Poor,Poor,High,Fair,9+ hours,1-2 hours,69.2,Good
+23,Male,Yes,1,Single,3.07,Computer Science,4,8.8,1-2 days,3,3,Low,No,Good,Excellent,Moderate,Good,6-8 hours,3-4 hours,84.9,Good
+21,Male,No,2,In a relationship,3.96,Science,3,7.9,3-4 days,12,1,Moderate,Yes,Good,Fair,None,Fair,6-8 hours,3-4 hours,67.8,Good
+19,Male,No,2,Single,3.14,Social Sciences,6,5.2,1-2 days,2,0,High,No,Good,Good,Moderate,Excellent,3-5 hours,3-4 hours,81.2,Good
+22,Male,No,1,Single,3.67,Computer Science,5,6.1,5+ days,0,1,High,No,Good,Excellent,High,Fair,1-2 hours,3-4 hours,84.6,Good
+20,Male,Yes,2,Single,2.23,Science,5,5.7,1-2 days,4,3,High,Yes,Excellent,Good,High,Poor,3-5 hours,Less than 1 hour,76.1,Good
+18,Male,No,5,Single,3.41,Education,6,5.2,None,3,0,High,Yes,Good,Good,Moderate,Poor,6-8 hours,1-2 hours,79.9,Good
+23,Male,No,5,Single,3.04,Arts,5,4.8,1-2 days,1,5,High,No,Good,Fair,Low,Good,6-8 hours,3-4 hours,71.6,Good
+21,Male,No,2,Single,3.29,Social Sciences,4,9.2,1-2 days,0,1,Severe,Yes,Excellent,Good,High,Good,3-5 hours,Less than 1 hour,80.9,Good
+17,Male,Yes,1,Single,3.27,Business,5,6.7,3-4 days,1,0,Low,Yes,Excellent,Fair,Moderate,Good,6-8 hours,Less than 1 hour,89.9,Good
+19,Male,No,2,Single,3.28,Medicine,5,6.4,1-2 days,2,2,Moderate,No,Fair,Excellent,None,Good,6-8 hours,5+ hours,81.5,Good
+18,Female,No,2,Single,3.57,Social Sciences,5,7.4,3-4 days,1,1,High,No,Good,Good,Moderate,Poor,6-8 hours,3-4 hours,80.8,Good
+17,Male,No,2,Single,2.86,Science,5,7.5,1-2 days,0,1,High,No,Fair,Good,Moderate,Good,6-8 hours,1-2 hours,79.6,Good
